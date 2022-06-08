@@ -1,0 +1,38 @@
+header {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 30px;
+  border-bottom: 7px solid aqua;
+}
+
+footer{
+  width: 100%;
+  padding: 15px ;
+  margin-top: 30px;
+  border-top: 7px solid aqua;
+  display: flex;
+}
+
+table{
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table th, table td{
+  border: solid 1px black;
+}
+
+table th{
+  background-color: paleturquoise;
+  padding: 10px 20px;
+}
+
+table td{
+  padding: 3px 10px;
+}
+
+.notice{
+  background-color: #ccf;
+  padding: 5px;
+}
+
